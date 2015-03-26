@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/ganya.RLINDIA/Downloads/smackwantedlib/smack.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ganya.RLINDIA/Downloads/smackwantedlib/smackx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ganya.RLINDIA/Downloads/smackwantedlib/smackx-debug.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ganya.RLINDIA/Downloads/smackwantedlib/smackx-jingle.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ganya.RLINDIA/Downloads/mongo-java-driver-2.11.0 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/ganya.RLINDIA/Downloads/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ganya.RLINDIA/Downloads/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ganya.RLINDIA/Downloads/hyperic-sigar-1.6.4/hyperic-sigar-1.6.4/sigar-bin/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ganya.RLINDIA/Downloads/hyperic-sigar-1.6.4/hyperic-sigar-1.6.4/sigar-bin/lib/sigar.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
